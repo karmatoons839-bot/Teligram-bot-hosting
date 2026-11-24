@@ -8,11 +8,14 @@ import logging
 # CONFIG
 # ---------------------------
 TOKENS = [
-"1 Enter Bot Token"
-"2 Enter Bot Token"
+"8607338947:AAH0Q6bqWTDB6XP2Ot8pdgP7B4xKMMSyMRw"
+"8963099376:AAHPM0T80absE9OIqeaar1xHxWA_d2So2_s"
+"8981322647:AAHAg4PX5YAL8Hw9IfXCFfGcbLDiUwwHIfI"
+"9269436965:AAHs2pR2-Jx5QDBSbBotQZ6E2xABwM4mdz0"
+"9078907434:AAHSBq909dn2k3MfUdEmakTq9EdA8FqiwCA"
 ]
 
-OWNER_ID = enter owner id
+OWNER_ID = 8955719524
 
 SUDO_FILE = "sudo.json"
 
